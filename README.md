@@ -32,6 +32,8 @@ Build with care and love :heart:.
 
 `docker-compose up --build`
 
+## Open [http://localhost:3000](http://localhost:3000) to view the app in the browser.
+
 ________________________________________________________________________
 
 ###  Once the app is started, you can import items data to mongodb only one time by the following command:
