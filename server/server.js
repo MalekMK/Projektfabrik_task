@@ -9,7 +9,6 @@ const users = require("./routes/api/users");
 const auth = require("./routes/api/auth");
 
 require('dotenv').config()
-console.log()
 
 //Body parser middleware
 app.use(express.json());
