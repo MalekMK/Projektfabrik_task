@@ -161,9 +161,6 @@ class OrderModal extends Component {
                   <strong>{this.props.name}</strong>
                 </Label>
 
-                <Label for="quantity" className="my-3">
-                  <strong>Quantity</strong>
-                </Label>
                 <Input
                   type="number"
                   name="quantity"
